@@ -1,4 +1,4 @@
-<img align = "right" src="<iframe src="https://gifer.com/embed/Bm7C" width=480 height=320.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" width="450" height="300" />
+<img align = "right" src="Bm7C.gif" width="450" height="300" />
 
 - 👋 Hi, I’m Nilesh
 - 👀 I’m interested in making websites and programs
